@@ -1,4 +1,4 @@
-# car_insurance_with_aws_glue
+# Car Insurance with AWS
 
 Objective: To use the Amazon S3, AWS Glue,AWS Lambda, AWS Athena and AWS Quicksight for data engineering and analysis of car insurance, share patterns, and actionable insights.
 
